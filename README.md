@@ -1,5 +1,11 @@
 # frontend
 
+
+## For Docker
+```
+put outside of frontend the docker-compose.yaml. then run the docker-compose up
+```
+
 ## Project setup
 ```
 npm install
