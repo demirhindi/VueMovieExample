@@ -1,5 +1,5 @@
 # frontend
-
+![Ekran Alıntısı](https://github.com/demirhindi/VueMovieExample/assets/44267558/f10a2a88-35ba-45dd-a567-0da68dc30679)
 
 ## For Docker
 ```
